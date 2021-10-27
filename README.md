@@ -6,14 +6,14 @@
 -----------------------
 
 > # Algumas Telas:
-> **Listagem de Amostras*
+> **Listagem de Amostras**
 <p align="center">
-    <img align="center" width="300" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/Amostras.PNG" style="max-width:100%;">
+    <img align="center" width="500" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/Amostras.PNG" style="max-width:100%;">
 </p>
 
 > **Historico de Atividades**
 <p align="center">
-    <img align="center" width="300" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/AuditoriaUso.PNG" style="max-width:100%;">
+    <img align="center" width="500" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/AuditoriaUso.PNG" style="max-width:100%;">
 </p>
 
 
@@ -28,7 +28,7 @@
 
 -----------------------
 
-1. **Instruções de Execução**
+> # 1. **Instruções de Execução**
 - Baixar xampp 7.3.27 (foi relatado problema com outras versões quanto a manipulação de midias e pdf)
 - Salvar a pasta xampp seguindo a recomendação de instalação
 - Colocar este projeto na pasta htdocs do xampp
@@ -46,6 +46,8 @@
 
 -----------------------
 
-2. ** Execução **:
+> # 2. ** Execução **:
 - O Sistema esta disponivel no endereço: http://grupo-01.000webhostapp.com/
 - Observação: Há relatos de não inicilização completa do estilo (CSS,HTML,JS) na tela de login, quando acessado o site pela primeira vez.
+
+-----------------------
