@@ -17,4 +17,6 @@
 - Digite, email: professor@professor.com    senha:teste   -> para logar com um usuario do tipo professor
 
 
-
+> # Execução:
+> O Sistema esta disponivel no endereço: http://grupo-01.000webhostapp.com/
+> Observação: Há relatos de não inicilização completa do estilo (CSS,HTML,JS) na tela de login, quando acessado o site pela primeira vez.
