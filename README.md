@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Amostras Veterinárias
 > Este projeto é uma adaptação do projeto desenvolvido no componente "Resolução de Problemas VI" do curso de Engenharia de Software da Universidade Federal do Pampa (UNIPAMPA).
-> O Sistema disponibiliza funcionaldiades CRUD de Amostras, Vacinas, Exames, Usuários e Midias, afins de que os professores e alunos colaborem no gerenciamento de amostras veterinarias
+> O Sistema disponibiliza funcionalidades CRUD de: Amostras, Vacinas, Exames, Usuários e Midias. Afins de que os professores e alunos colaborem no gerenciamento de amostras veterinárias.
 
 
 -----------------------
@@ -28,7 +28,7 @@
 
 -----------------------
 
-> # 1. **Instruções de Execução**
+> # 1. **Instruções de Execução Local**
 - Baixar xampp 7.3.27 (foi relatado problema com outras versões quanto a manipulação de midias e pdf)
 - Salvar a pasta xampp seguindo a recomendação de instalação
 - Colocar este projeto na pasta htdocs do xampp
@@ -46,8 +46,9 @@
 
 -----------------------
 
-> # 2. ** Execução **:
+> # 2. **Execução Online**:
 - O Sistema esta disponivel no endereço: http://grupo-01.000webhostapp.com/
 - Observação: Há relatos de não inicilização completa do estilo (CSS,HTML,JS) na tela de login, quando acessado o site pela primeira vez.
+- As credencias de Login são as mesmas contidas nas intruções de execução local
 
 -----------------------
