@@ -8,12 +8,12 @@
 > # Algumas Telas:
 > **Listagem de Amostras**
 <p align="center">
-    <img align="center" width="500" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/Amostras.PNG" style="max-width:100%;">
+    <img align="center" width="800" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/Amostras.PNG" style="max-width:100%;">
 </p>
 
 > **Historico de Atividades**
 <p align="center">
-    <img align="center" width="500" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/AuditoriaUso.PNG" style="max-width:100%;">
+    <img align="center" width="800" src="https://github.com/lucasabner/laboratorio-virologia/blob/main/exemplo_telas/AuditoriaUso.PNG" style="max-width:100%;">
 </p>
 
 
